@@ -13,9 +13,9 @@ Contributed to data cleaning and preprocessing, time-series data preparation, an
 
 | Project | Technical focus |
 |---|---|
-| [Sensor-token BERT classifier](https://github.com/minhiungan2608/Project-Machine-Failure-Prediction-using-NLP-BERT) | KMeans sensor tokenization and a compact BERT classifier trained from scratch |
-| [Business Intelligence Forecaster](https://github.com/minhiungan2608/Business-Intelligent-Forcaster) | Tkinter app for tabular regression, with preprocessing pipelines, four regressors, prediction, and model persistence |
-| [Tokyo Weather Analysis](https://github.com/minhiungan2608/Presentation1_Pythonfordata) | Forecast API ingestion, pandas analysis, exploratory statistics, and visualization |
+| [Sensor-token BERT classifier](https://github.com/minhiungan2608/machine-failure-prediction-bert) | KMeans sensor tokenization and a compact BERT classifier trained from scratch |
+| [CSV Regression Workbench (BIF)](https://github.com/minhiungan2608/csv-regression-workbench) | Tkinter app for tabular regression, with preprocessing pipelines, four regressors, prediction, and model persistence |
+| [Tokyo Weather Analysis](https://github.com/minhiungan2608/tokyo-weather-analysis) | Forecast API ingestion, pandas analysis, exploratory statistics, and visualization |
 
 These are learning projects; their READMEs document setup, recorded results, and limitations. BERT's overlapping-window evaluation does not establish generalization to independent machines or sequences.
 
